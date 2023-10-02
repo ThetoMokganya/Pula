@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Pula</string>
-    <string name="title_activity_main">MainActivity</string>
     <string name="map_fab">Select location on map</string>
+    <string name="min_label">min</string>
+    <string name="max_label">max</string>
+    <string name="current_label">Current</string>
 </resources>
