@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Pula</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="map_fab">Select location on map</string>
 </resources>
